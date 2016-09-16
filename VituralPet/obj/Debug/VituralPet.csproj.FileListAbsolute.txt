@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\bin\Debug\VituralPet.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\obj\Debug\VituralPet.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\bin\Debug\VituralPet.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\bin\Debug\VituralPet.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\obj\Debug\VituralPet.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\VituralPet\VituralPet\obj\Debug\VituralPet.pdb
